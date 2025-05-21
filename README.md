@@ -1,7 +1,7 @@
 <div align=center>
 </div> 
 <h2 align="center">
-<a href="https://arxiv.org/abs/2502.12520"><img src="assets/logo.png" alt="SafeEraser Logo" width="20" style="vertical-align: middle; margin-right: 6px;">SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning
+<a href="https://arxiv.org/abs/2502.12520"><img src="assets/logo.png" alt="SafeEraser Logo" width="20" style="vertical-align: middle; margin-right: 8px;">SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning
 </a></h2>
     
 </h5>
@@ -27,7 +27,7 @@ As Multimodal Large Language Models (MLLMs) develop, their potential security is
 * **[2025.05.16]** 🎉🎉🎉Our paper is accepted by ACL Findings 2025!
 * **[2025.02.25]** We release the [paper](https://arxiv.org/abs/2312.00438) of our project.
 
-## <img src="assets/logo.png" alt="SafeEraser Logo" width="20" style="vertical-align: middle; margin-right: 3px;">SafeEraser Dataset
+## <img src="assets/logo.png" alt="SafeEraser Logo" width="20" style="vertical-align: middle; margin-right: 8px;">SafeEraser Dataset
 
 You can download our dataset in this [link](https://drive.google.com/file/d/1DxcqHMT-LuCAoaJkF1UfCphPbbuUHlQq/view?usp=share_link). SafeEraser is a safety unlearning benchmark for MLLMs, consisting of 3,000 images and 28.8K VQA pairs.
 
