@@ -25,7 +25,7 @@ As Multimodal Large Language Models (MLLMs) develop, their potential security is
 
 ## 🔥 News
 * **[2025.05.16]** 🎉🎉🎉Our paper is accepted by ACL Findings 2025!
-* **[2025.02.25]** We release the [paper](https://arxiv.org/abs/2312.00438) of our project.
+* **[2025.02.25]** We release the [paper](https://arxiv.org/abs/2502.12520) of our project.
 
 ## <img src="assets/logo.png" alt="SafeEraser Logo" width="20" style="vertical-align: middle; margin-right: 20px;">SafeEraser Dataset
 
